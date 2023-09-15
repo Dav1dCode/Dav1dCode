@@ -1,4 +1,6 @@
-# Sobre Mim
+# Olá tudo joia?
+
+Eu sou o David, um apaixonado por tecnologia, games e desenvolvimento de software. Iniciei em 08/23 uma sólida formação em análise e Desenvolvimento de Sistemas na PUC MINAS, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dav1dCode&theme=radical&mode=weekly" />
@@ -7,8 +9,6 @@
  
  &nbsp;
  &nbsp;
-
-Olá, eu sou o David, um apaixonado por tecnologia, games e desenvolvimento de software. Iniciei em 08/23 uma sólida formação em análise e Desenvolvimento de Sistemas na PUC MINAS, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
 
 ## Entre em Contato
 
