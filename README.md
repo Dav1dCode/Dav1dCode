@@ -13,7 +13,7 @@ Eu sou o David, um apaixonado por tecnologia, games e desenvolvimento de softwar
 ## Entre em Contato
 
 - LinkedIn: [David Neves](https://www.linkedin.com/in/davidoneves)
-- Twitter: [Dav1d](https://x.com/davidc0de?t=EJna93Zcq1XqNIs02Nl05A&s=09)
+- Twitter: [Dav1d]([https://x.com/davidc0de?t=EJna93Zcq1XqNIs02Nl05A&s=09](https://twitter.com/deiivfn))
 - Email: dav1dcode@outlook.com
 
 
