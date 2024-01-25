@@ -1,19 +1,17 @@
-# Olá tudo joia?
+## Olá! Eu sou o Matheus Fraga 🖐️
 
-Eu sou o David, um apaixonado por tecnologia, games e desenvolvimento de software. Iniciei em 11/23 uma sólida formação na PDA, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/deiivfn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidoneves)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/deiivfn)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dav1dCode&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Dav1dCode&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+![Dav1dCode GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
-## Entre em Contato
+## Tecnologias que eu uso no meu dia
 
-- LinkedIn: [David Neves](https://www.linkedin.com/in/davidoneves)
-- Twitter: [Dav1d](https://twitter.com/deiivfn)
-- Email: dav1dcode@outlook.com
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
 
-
+Apaixonado por tecnologia e games.
